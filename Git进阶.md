@@ -30,6 +30,8 @@ git remote add origin https://github.com/MrCodeSniper/GitDev.git 将本地仓库
 
 git push -u origin master 将本地仓库内容推送到远端master分支
 
+git push origin dev1.0.0 将本地分支推送到新的远程分支
+
 git pull 从远端拉代码下来 
 
 git stash 将本地的未提交的修改 生成一个Stash可暂存起来
