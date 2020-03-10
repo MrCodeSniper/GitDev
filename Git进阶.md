@@ -42,6 +42,8 @@ git log 可以查看提交的记录信息
 
 git checkout -b XXX 切换分支
 
+git push --set-upstream origin dev1.0.0 将当前分支的远程追踪分支 设置为dev1.0.0
+
 
 #### 冲突处理
 
