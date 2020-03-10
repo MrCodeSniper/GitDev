@@ -38,6 +38,7 @@ git pop 将stash的修改恢复
 
 git log 可以查看提交的记录信息
 
+git checkout -b XXX 切换分支
 
 
 #### 冲突处理
